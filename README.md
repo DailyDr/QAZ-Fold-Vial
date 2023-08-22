@@ -13,6 +13,6 @@ You can also set one as a momentary layer to make it literally a layer toggle.
 
 This uses about 95% of the firmware space on the Atmega. 
 
-NOTE: Has NOT been tested with a pro micro version of the pcb, and has NOT been tested with a split space. 
+Firmware should work for both split space, single space, drop in, and integrated qaz pcbs!
 
 Hope this gets yall up and running!
