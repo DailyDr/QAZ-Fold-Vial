@@ -16,3 +16,6 @@ This uses about 95% of the firmware space on the Atmega.
 Firmware should work for both split space, single space, drop in, and integrated qaz pcbs!
 
 Hope this gets yall up and running!
+
+Update as of 1/7/2026: I do not believe these are purchasable keyboards, nor are there any plans to actually run a
+    second round of keyboards. CBKBD does appear to not be shipping orders. I have not heard anything since 8/2024
